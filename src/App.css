@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Fugaz+One&display=swap");
+
 * {
   box-sizing: border-box;
 }
@@ -24,12 +26,28 @@ body,
   justify-content: center;
 }
 
-.loader {
+.loader__container {
   width: 100%;
   height: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.loader__loader {
+  height: 30%;
+  background-color: rgba(255, 255, 255, 0.527);
+  border-radius: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.loader__text {
+  color: rgb(0, 0, 0);
+  font-size: 150px;
+  margin: 0 60px 0 60px;
+  font-family: "Fugaz One", "Bungee Shade", cursive;
 }
 
 .movies {
