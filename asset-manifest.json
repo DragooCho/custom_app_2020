@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/custom_app_2020/static/css/main.c6d990d9.chunk.css",
-    "main.js": "/custom_app_2020/static/js/main.b0d61264.chunk.js",
-    "main.js.map": "/custom_app_2020/static/js/main.b0d61264.chunk.js.map",
+    "main.css": "/custom_app_2020/static/css/main.9f4a58f7.chunk.css",
+    "main.js": "/custom_app_2020/static/js/main.be712301.chunk.js",
+    "main.js.map": "/custom_app_2020/static/js/main.be712301.chunk.js.map",
     "runtime-main.js": "/custom_app_2020/static/js/runtime-main.f19e0d8d.js",
     "runtime-main.js.map": "/custom_app_2020/static/js/runtime-main.f19e0d8d.js.map",
     "static/js/2.35aacd62.chunk.js": "/custom_app_2020/static/js/2.35aacd62.chunk.js",
     "static/js/2.35aacd62.chunk.js.map": "/custom_app_2020/static/js/2.35aacd62.chunk.js.map",
     "index.html": "/custom_app_2020/index.html",
-    "static/css/main.c6d990d9.chunk.css.map": "/custom_app_2020/static/css/main.c6d990d9.chunk.css.map",
+    "static/css/main.9f4a58f7.chunk.css.map": "/custom_app_2020/static/css/main.9f4a58f7.chunk.css.map",
     "static/js/2.35aacd62.chunk.js.LICENSE.txt": "/custom_app_2020/static/js/2.35aacd62.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f19e0d8d.js",
     "static/js/2.35aacd62.chunk.js",
-    "static/css/main.c6d990d9.chunk.css",
-    "static/js/main.b0d61264.chunk.js"
+    "static/css/main.9f4a58f7.chunk.css",
+    "static/js/main.be712301.chunk.js"
   ]
 }
